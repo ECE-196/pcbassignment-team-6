@@ -1,16 +1,16 @@
 # CHANGELOG
 
-## April 29th, 2024
+## April 30th, 2024
 ### Contributors
 Garno Amirian
 Aidan Garamendi
 Bao Thy Nguyen
 
 ### Added
-PCB Schematic - Major technical issues led to late submission. Needed office hours on Monday to resolve and complete before class.
+Layout in pcb editor view of revised schematic
 
 ### Changed
-N/A
+Schematic to fit revisions given by peer evaluation. More pins added for output, additional safety measures added in ESP32 as specified by datasheet.
 
 ### Removed
 N/A
