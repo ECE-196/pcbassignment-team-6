@@ -1,16 +1,16 @@
 # CHANGELOG
 
-## April 30th, 2024
+## May 3rd, 2024
 ### Contributors
 Garno Amirian
 Aidan Garamendi
 Bao Thy Nguyen
 
 ### Added
-Layout in pcb editor view of revised schematic
+Zipped Gerber file
 
 ### Changed
-Schematic to fit revisions given by peer evaluation. More pins added for output, additional safety measures added in ESP32 as specified by datasheet.
+Schematic and layout to fit revisions given by ta evaluation. Added usb port and revised RC circuit for enable pin safety. Layout recieved nets and paths to fully connect pins and edgecut. 
 
 ### Removed
 N/A
